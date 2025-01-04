@@ -5,6 +5,8 @@
 
 Projeto com o objetivo de gerar um ebook digital com orientações aos pais sobre as consequências do uso excessivo de telas na infância.
 
+<a href="https://github.com/TaniaMoreiraLima/Projeto-EBOOK-Gerado-por-I.A.s/blob/main/Ebook_ConectadosDemais.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
